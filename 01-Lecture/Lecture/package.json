@@ -1,0 +1,16 @@
+{
+  "name": "01-lecture-backend",
+  "version": "1.0.0",
+  "description": "This is my first backend workspace",
+  "keywords": [
+    "nodejs",
+    "xshshahab"
+  ],
+  "license": "ISC",
+  "author": "Md. Shahabuddin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
